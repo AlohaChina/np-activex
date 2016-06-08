@@ -1,2 +1,4 @@
-# np-activex
-from google code
+np-activex
+==========
+
+Enable ActiveX plug-ins for NPAPI browsers
